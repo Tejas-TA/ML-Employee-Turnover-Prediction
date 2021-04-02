@@ -3,7 +3,7 @@
 Employee Turnover Rate is the measurement of the number of employees who leave an organization during a specified time period, typically one year.<br>
 Note: It's also applicable to sub departments in an organization.<br>
 
-Accuracy of the trained/tested models - <br><br>
+Accuracy of the trained/tested models - <br>
 
 <b>Achieved higest accuracy with Random forests</b>
 
